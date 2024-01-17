@@ -1,5 +1,7 @@
 import React from 'react';
 import './App.css';
+import ExternalComponent from '../../reactworkspace/loginsignin_popup';
+
 import { Header } from 'antd/es/layout/layout.js';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Sidebar from './components/Sidebar.jsx';
