@@ -80,7 +80,8 @@ const Sidebar = ({children}) => {
            </div>
            <div className='body'>
             <div className='header'>
-             <h1 className='h1'>Profile</h1>
+             {/* <h1 className='h1'>Profile</h1> */}
+             {children}
             </div>        
             </div> 
         </div>

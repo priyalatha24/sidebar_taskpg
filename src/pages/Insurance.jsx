@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Insurance= () => {
+const insurance= () => {
     return (
         <div>
-            <h1>Insurance page</h1>
+            Insurance page
         </div>
     );
 };
 
-export default Insurance;
+export default insurance;

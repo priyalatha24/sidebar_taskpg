@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Analytics = () => {
+const Issue = () => {
     return (
         <div>
-            <h1>Analytics page</h1>
+            <h1>issue page</h1>
         </div>
     );
 };
 
-export default Analytics;
+export default Issue;
