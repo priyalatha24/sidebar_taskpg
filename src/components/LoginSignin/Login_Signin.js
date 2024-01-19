@@ -2,6 +2,7 @@ import React from 'react';
 import './LoginSignin.css';
 import openLoginPopup from './loginjs';
 import openSigninPopup from './signin';
+import Sidebar from '../Sidebar';
 
 const LoginSignin = () => {
   return (
